@@ -10,3 +10,6 @@ https://drive.google.com/file/d/1LJSVRGHS19nVSGQC7fURbacbxNenuLyH/view
 ```
 npm install
 ```
+
+## Sample generated README
+The sample README generated using the command line application is the 'sample-README.md' file in this repo.
